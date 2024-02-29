@@ -5,7 +5,7 @@
 
 This is a simple app to order food, made with Laravel and ReactJS
 
-To run this app, you need to install Composer for Laravel and NodeJs for React. This repository contains the Backend for this app.
+To run this app, you need to install Composer for Laravel and NodeJs for React. This repository contains the Backend for this app. [Visit frontend repository](https://github.com/JulianCallejas/quiosco-laravel-react-frontend)
 
 ## Installation
 
@@ -33,3 +33,5 @@ To run this app, you need to install Composer for Laravel and NodeJs for React. 
     ```Bash
     php artisan serve
     ```
+
+8. Run the Frontend app. [Go to frontend repository](https://github.com/JulianCallejas/quiosco-laravel-react-frontend)
